@@ -7,7 +7,7 @@
 - Created synthetic transactions around original production stored procedures to validate throughput volume of 100,000+ inserts
 - Created nested stored procedures with output parameters to improve modularity of database environment
 - Capable of answering complex questions using advanced SQL queries 
-- Presented valuable information for the stakeholders using Tableau
+- Presented valuable insights for the stakeholders using Tableau
 
 
 <img width="599" alt="Picture1" src="https://github.com/eunjiart/online-clothing-store-database/assets/138978460/17892c6f-5746-4f97-adc6-8e4b70870e1f">
